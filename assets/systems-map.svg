@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Systems map: AI assurance, forensics, civic automation and infrastructure">
+  <defs>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="#0a1416"/>
+  <text x="40" y="48" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" letter-spacing="3" fill="#5f7c77">SYSTEMS MAP</text>
+
+  <!-- links -->
+  <g stroke="#1f3b3a" stroke-width="2" fill="none">
+    <path d="M600 215 L270 120"/><path d="M600 215 L930 120"/>
+    <path d="M600 215 L270 320"/><path d="M600 215 L930 320"/>
+  </g>
+  <g stroke="#34d399" stroke-width="2" fill="none" stroke-dasharray="6 10" stroke-opacity="0.8">
+    <path d="M600 215 L270 120"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.6s" repeatCount="indefinite"/></path>
+    <path d="M600 215 L930 120"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.9s" repeatCount="indefinite"/></path>
+    <path d="M600 215 L270 320"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="2.2s" repeatCount="indefinite"/></path>
+    <path d="M600 215 L930 320"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1.7s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- core -->
+  <circle cx="600" cy="215" r="64" fill="#0b1a1f" stroke="url(#core)" stroke-width="3"/>
+  <text x="600" y="208" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e7f6f2">TECH</text>
+  <text x="600" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e7f6f2">FOR GOOD</text>
+
+  <!-- nodes -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <g transform="translate(90 78)">
+      <rect width="300" height="84" rx="12" fill="#0f1f22" stroke="#34d399" stroke-opacity="0.6"/>
+      <text x="20" y="34" font-size="18" font-weight="700" fill="#e7f6f2">AI Assurance</text>
+      <text x="20" y="60" font-size="14" fill="#9fb8b3">data · model · inference integrity</text>
+    </g>
+    <g transform="translate(810 78)">
+      <rect width="300" height="84" rx="12" fill="#0f1f22" stroke="#22d3ee" stroke-opacity="0.6"/>
+      <text x="20" y="34" font-size="18" font-weight="700" fill="#e7f6f2">Digital Forensics</text>
+      <text x="20" y="60" font-size="14" fill="#9fb8b3">recovery · custody · court-ready</text>
+    </g>
+    <g transform="translate(90 278)">
+      <rect width="300" height="84" rx="12" fill="#0f1f22" stroke="#22d3ee" stroke-opacity="0.6"/>
+      <text x="20" y="34" font-size="18" font-weight="700" fill="#e7f6f2">Civic Automation</text>
+      <text x="20" y="60" font-size="14" fill="#9fb8b3">agents · multimodal intake · n8n</text>
+    </g>
+    <g transform="translate(810 278)">
+      <rect width="300" height="84" rx="12" fill="#0f1f22" stroke="#34d399" stroke-opacity="0.6"/>
+      <text x="20" y="34" font-size="18" font-weight="700" fill="#e7f6f2">Infra &amp; Hardware</text>
+      <text x="20" y="60" font-size="14" fill="#9fb8b3">homelab · IoT · atmospheric probes</text>
+    </g>
+  </g>
+</svg>

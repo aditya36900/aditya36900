@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Terminal: current work and focus">
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 17px; }
+    .p { fill: #34d399; } .c { fill: #e7f6f2; } .o { fill: #9fb8b3; } .k { fill: #22d3ee; } .d { fill: #5f7c77; }
+    .ln { opacity: 0; animation: show 0.01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="1200" height="330" rx="16" fill="#0a1416" stroke="#1f3b3a"/>
+  <rect width="1200" height="40" rx="16" fill="#0f1f22"/>
+  <rect y="24" width="1200" height="16" fill="#0f1f22"/>
+  <circle cx="28" cy="20" r="7" fill="#f87171"/><circle cx="52" cy="20" r="7" fill="#fbbf24"/><circle cx="76" cy="20" r="7" fill="#34d399"/>
+  <text x="600" y="26" text-anchor="middle" class="m d" font-size="14">aditya@victus: ~</text>
+
+  <g class="m">
+    <text x="32" y="84" class="ln" style="animation-delay:.3s"><tspan class="p">➜ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="32" y="112" class="ln o" style="animation-delay:.8s">CSE @ KMIT · founder, TeenTechIndia · freelance web / app / game dev</text>
+
+    <text x="32" y="152" class="ln" style="animation-delay:1.4s"><tspan class="p">➜ </tspan><tspan class="c">cat focus.txt</tspan></text>
+    <text x="32" y="180" class="ln" style="animation-delay:1.9s"><tspan class="k">[build]</tspan><tspan class="o"> personal home-server infra · Docker sandboxes · SSO</tspan></text>
+    <text x="32" y="208" class="ln" style="animation-delay:2.2s"><tspan class="k">[ship ]</tspan><tspan class="o"> Yatharth (PyPI · npm) · Sarvadristhi DVR forensics</tspan></text>
+    <text x="32" y="236" class="ln" style="animation-delay:2.5s"><tspan class="k">[help ]</tspan><tspan class="o"> mentoring hackathon teams · Recurse KMIT</tspan></text>
+
+    <text x="32" y="276" class="ln" style="animation-delay:3.1s"><tspan class="p">➜ </tspan><tspan class="c">echo $MOTTO</tspan></text>
+    <text x="32" y="304" class="ln" style="animation-delay:3.6s"><tspan class="o">tech for good — measured, not asserted.</tspan><tspan class="p cur"> ▋</tspan></text>
+  </g>
+</svg>

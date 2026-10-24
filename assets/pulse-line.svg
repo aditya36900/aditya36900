@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 20 H520 L540 20 L552 6 L566 34 L580 10 L592 26 L604 20 H1200" fill="none" stroke="#1f3b3a" stroke-width="2"/>
+  <path d="M0 20 H520 L540 20 L552 6 L566 34 L580 10 L592 26 L604 20 H1200" fill="none" stroke="url(#fade)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="160 1300">
+    <animate attributeName="stroke-dashoffset" from="1460" to="0" dur="4s" repeatCount="indefinite"/>
+  </path>
+</svg>

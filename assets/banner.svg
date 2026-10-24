@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Aditya Tipirneni — Tech for good">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07110f"/>
+      <stop offset="0.55" stop-color="#0b1a1f"/>
+      <stop offset="1" stop-color="#0d1326"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f3b3a" stroke-width="1" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#glow)"/>
+
+  <!-- node constellation -->
+  <g stroke="#34d399" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+    <path d="M880 90 L980 140 L1090 100 L1180 170 L1080 230 L960 210 Z"/>
+    <path d="M980 140 L1080 230 M1090 100 L960 210"/>
+  </g>
+  <g fill="#0b1a1f" stroke="url(#accent)" stroke-width="2">
+    <circle cx="880" cy="90" r="6"/><circle cx="980" cy="140" r="9"/>
+    <circle cx="1090" cy="100" r="6"/><circle cx="1180" cy="170" r="7"/>
+    <circle cx="1080" cy="230" r="6"/><circle cx="960" cy="210" r="5"/>
+  </g>
+  <circle cx="980" cy="140" r="9" fill="none" stroke="#34d399" stroke-width="2">
+    <animate attributeName="r" values="9;24;9" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="4" fill="#34d399">// TECH FOR GOOD</text>
+  <text x="70" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#e7f6f2">Aditya Tipirneni</text>
+  <rect x="72" y="192" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#9fb8b3">AI · Automation · Security · Systems</text>
+  <text x="72" y="270" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#5f7c77">B.Tech CSE @ KMIT · Founder, TeenTechIndia · github.com/aditya36900</text>
+</svg>
