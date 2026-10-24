@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-aditya-tipirneni/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aditya@teentechindia.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0B1220?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email" /></a>
+  <a href="mailto:saiadityatipirneni@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0B1220?style=for-the-badge&logo=gmail&logoColor=34D399" alt="Email" /></a>
   <a href="https://github.com/aditya36900?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Repositories" /></a>
 </p>
 
 <p align="center">
-  <b>I build technology for good — systems that hold up under scrutiny, not just in a demo.</b><br/>
+  <b>I build technology for good.</b><br/>
   From AI assurance and digital forensics to agentic civic platforms and self-hosted infrastructure.
 </p>
 
@@ -32,8 +32,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><h3>SIH ’26</h3><b>Yatharth</b><br/>Team SPARCX</td>
-    <td align="center" width="25%"><h3>Codenovate ’25</h3><b>Winner</b><br/>2× hackathon winner</td>
+    <td align="center" width="25%"><h3>Yatharth</h3><b>Published</b><br/>PyPI · npm</td>
+    <td align="center" width="25%"><h3>AI Automation</h3><b>Intern</b><br/>Multiple firms</td>
     <td align="center" width="25%"><h3>TeenTechIndia</h3><b>Founder</b><br/>Tech-for-good umbrella</td>
     <td align="center" width="25%"><h3>Mentor</h3><b>Hackathon teams</b><br/>Many winning builds</td>
   </tr>
@@ -52,7 +52,7 @@ Turning an M2 Mac mini into a self-hosted platform: isolated Docker sandboxes (P
 ## 02 / Selected systems
 
 ### 🛡️ Yatharth
-**SIH 2026 · PS 26228 (MoD / Indian Army) · Team SPARCX**
+**AI supply-chain assurance for defence computer vision · Team SPARCX**
 
 Offline, air-gapped assurance for object-detection datasets and the models trained on them — catches poisoned or flipped labels, duplicates and leakage, backdoor triggers, substituted models, doctored pipelines and tampered prediction logs. Every finding carries its measurements and its limits; nothing is called an attack until independent checks agree.
 
@@ -107,9 +107,9 @@ An AI agent swarm that resolves public grievances instead of just logging them: 
 
 ## 05 / Credentials & range
 
-**Competitions**
+**Recognition**
 
-• Smart India Hackathon 2026 — Yatharth (PS 26228) and Sarvadristhi. • Codenovate 2025 — Winner. • Amazon HackOn and Microsoft Imagine Cup — participant. • Mentor to multiple hackathon-winning teams.
+• 2× hackathon winner. • Amazon HackOn and Microsoft Imagine Cup — participant. • Mentor to multiple hackathon-winning teams.
 
 **Earlier builds**
 
@@ -117,12 +117,10 @@ An AI agent swarm that resolves public grievances instead of just logging them: 
 
 **Beyond code**
 
-• Founder, TeenTechIndia. • AI automation intern at multiple firms. • Freelance web, app and game developer. • Recurse KMIT — technical club editions and website. • Lead, Technical Club KMIT n8n workshop.
-
+• Founder, TeenTechIndia. • Freelance web, app and game developer.
 <p align="center"><img src="./assets/pulse-line.svg" alt="" width="100%" /></p>
 
 <p align="center">
-  <b>Open to research collaborations, internships, ambitious hackathons, and problems worth solving for real people.</b><br/><br/>
   <a href="mailto:aditya@teentechindia.com">Email</a> · <a href="https://www.linkedin.com/in/sai-aditya-tipirneni/">LinkedIn</a> · <a href="https://github.com/aditya36900?tab=repositories">Repositories</a>
 </p>
 
