@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI • Automation • Security • Systems</b><br/>
-  2× Hackathon Winner · Founder @ TeenTechIndia · B.Tech CSE @ KMIT
+  4× Hackathon Winner · Founder @ TeenTechIndia · B.Tech CSE @ KMIT
 </p>
 
 <p align="center">
